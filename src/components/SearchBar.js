@@ -1,4 +1,11 @@
 function SearchBar() {
-    return  <div>SearchBar</div>;
+    
+    return ( <div>
+        <form>
+        <input/>
+        </form>
+        
+    </div>
+    );
  }
  export default SearchBar;
